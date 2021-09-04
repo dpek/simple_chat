@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>ThinDivider.qml</file>
+        <file>Ink.qml</file>
+        <file>CircleMask.qml</file>
+        <file>Scrollbar.qml</file>
+        <file>SideView.qml</file>
+        <file>IconButton.qml</file>
+        <file>exit_to_app.svg</file>
+        <file>group.svg</file>
+        <file>info_outline.svg</file>
+        <file>chat.svg</file>
+        <file>settings.svg</file>
+        <file>search.svg</file>
+        <file>IPPortField.qml</file>
+        <file>IPField.qml</file>
+        <file>IntField.qml</file>
+        <file>PropertiesPage.qml</file>
+    </qresource>
+</RCC>
