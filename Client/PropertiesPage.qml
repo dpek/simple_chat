@@ -43,7 +43,7 @@ Item {
         Controls.TextField {
             id: nameField
             placeholderText: qsTr("Nickname")
-            maximumLength: 12
+            maximumLength: 20
         }
         RowLayout {
             width: serverRow.implicitWidth

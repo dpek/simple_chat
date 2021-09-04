@@ -176,7 +176,7 @@ Controls.ApplicationWindow {
         x: parent.width/2 - width/2
         y: parent.height/2 - height/2
         focus: true
-        closePolicy: Controls.Popup.CloseOnEscape | Controls.Popup.CloseOnPressOutsideParent
+        closePolicy: Controls.Popup.NoAutoClose
         property alias error: properties.error
         property alias connecting: properties.connecting
         PropertiesPage {
